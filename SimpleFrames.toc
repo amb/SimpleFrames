@@ -1,0 +1,6 @@
+## Interface: 90001
+## Title: Simple Frames
+## Author: ambi
+## Version: 9.0.1
+## SavedVariables: SimpleFramesXpos, SimpleFramesYpos, SimpleFramesScale
+main.lua
